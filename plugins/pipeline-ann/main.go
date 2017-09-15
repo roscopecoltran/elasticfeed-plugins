@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/feedlabs/elasticfeed-plugin/pipeline/ann"
-	"github.com/feedlabs/elasticfeed/plugin"
+	"github.com/roscopecoltran/elasticfeed-plugin/pipeline/ann"
+	"github.com/roscopecoltran/elasticfeed/plugin"
 )
 
 func main() {

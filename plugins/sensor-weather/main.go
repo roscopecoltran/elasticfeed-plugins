@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/feedlabs/elasticfeed-plugin/sensor/weather"
-	"github.com/feedlabs/elasticfeed/plugin"
+	"github.com/roscopecoltran/elasticfeed-plugin/sensor/weather"
+	"github.com/roscopecoltran/elasticfeed/plugin"
 )
 
 func main() {

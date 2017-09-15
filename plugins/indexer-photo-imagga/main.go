@@ -1,8 +1,8 @@
 package main
 
 import (
-	imagga "github.com/feedlabs/elasticfeed-plugin/indexer/photo-imagga"
-	"github.com/feedlabs/elasticfeed/plugin"
+	imagga "github.com/roscopecoltran/elasticfeed-plugin/indexer/photo-imagga"
+	"github.com/roscopecoltran/elasticfeed/plugin"
 )
 
 func main() {

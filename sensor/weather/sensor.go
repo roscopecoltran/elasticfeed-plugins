@@ -1,9 +1,9 @@
 package weather
 
 import (
-	"github.com/feedlabs/elasticfeed/common"
-	"github.com/feedlabs/elasticfeed/workflow"
-//	"github.com/feedlabs/elasticfeed/plugin/model"
+	"github.com/roscopecoltran/elasticfeed/common"
+	"github.com/roscopecoltran/elasticfeed/workflow"
+//	"github.com/roscopecoltran/elasticfeed/plugin/model"
 )
 
 type config struct {
