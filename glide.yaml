@@ -1,0 +1,14 @@
+package: github.com/roscopecoltran/elasticfeed-plugins
+import:
+- package: github.com/roscopecoltran/elasticfeed-plugin
+  subpackages:
+  - indexer/photo-imagga
+  - pipeline/ann
+  - pipeline/null
+  - scenario/ann
+  - sensor/weather
+- package: github.com/roscopecoltran/elasticfeed
+  subpackages:
+  - common
+  - plugin
+  - workflow
