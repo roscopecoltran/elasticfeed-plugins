@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/roscopecoltran/elasticfeed-plugin/sensor/weather"
+	"github.com/roscopecoltran/elasticfeed-plugins/sensor/weather"
 	"github.com/roscopecoltran/elasticfeed/plugin"
 )
 

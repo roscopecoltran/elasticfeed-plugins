@@ -1,7 +1,7 @@
 package main
 
 import (
-	imagga "github.com/roscopecoltran/elasticfeed-plugin/indexer/photo-imagga"
+	imagga "github.com/roscopecoltran/elasticfeed-plugins/indexer/photo-imagga"
 	"github.com/roscopecoltran/elasticfeed/plugin"
 )
 

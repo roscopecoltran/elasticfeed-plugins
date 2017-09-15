@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/roscopecoltran/elasticfeed-plugin/pipeline/null"
+	"github.com/roscopecoltran/elasticfeed-plugins/pipeline/null"
 	"github.com/roscopecoltran/elasticfeed/plugin"
 )
 

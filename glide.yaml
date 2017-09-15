@@ -1,6 +1,6 @@
-package: github.com/roscopecoltran/elasticfeed-plugins
+package: github.com/roscopecoltran/elasticfeed-pluginss
 import:
-- package: github.com/roscopecoltran/elasticfeed-plugin
+- package: github.com/roscopecoltran/elasticfeed-plugins
   subpackages:
   - indexer/photo-imagga
   - pipeline/ann
@@ -8,6 +8,7 @@ import:
   - scenario/ann
   - sensor/weather
 - package: github.com/roscopecoltran/elasticfeed
+  version: sniperkit
   subpackages:
   - common
   - plugin
